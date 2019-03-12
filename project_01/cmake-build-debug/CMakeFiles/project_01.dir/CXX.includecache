@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/soumana/Desktop/C++ Practice/project_01/String.hpp
+iostream
+/Users/soumana/Desktop/C++ Practice/project_01/iostream
+
+/Users/soumana/Desktop/C++ Practice/project_01/main.cpp
+iostream
+-
+String.hpp
+/Users/soumana/Desktop/C++ Practice/project_01/String.hpp
+
